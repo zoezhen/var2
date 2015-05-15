@@ -49,17 +49,13 @@
                                       </block>
                                     </value>
                                     <next>
-                                      <block type="movement_left" id="389">
-                                        <next>
-                                          <block type="variables_set" id="306" inline="true">
-                                            <field name="VAR">delayCount</field>
-                                            <value name="VALUE">
-                                              <block type="math_number" id="319">
-                                                <field name="NUM">500</field>
-                                              </block>
-                                            </value>
+                                      <block type="variables_set" id="306" inline="true">
+                                        <field name="VAR">delayCount</field>
+                                        <value name="VALUE">
+                                          <block type="math_number" id="319">
+                                            <field name="NUM">500</field>
                                           </block>
-                                        </next>
+                                        </value>
                                       </block>
                                     </next>
                                   </block>
