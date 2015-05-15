@@ -53,7 +53,7 @@
                                         <field name="VAR">delayCount</field>
                                         <value name="VALUE">
                                           <block type="math_number" id="319">
-                                            <field name="NUM">200</field>
+                                            <field name="NUM">500</field>
                                           </block>
                                         </value>
                                       </block>
